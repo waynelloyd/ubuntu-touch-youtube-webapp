@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <service>
+  <type>webapp</type>
+  <name>YouTube Webapp</name>
+  <provider>google</provider>
+</service>
