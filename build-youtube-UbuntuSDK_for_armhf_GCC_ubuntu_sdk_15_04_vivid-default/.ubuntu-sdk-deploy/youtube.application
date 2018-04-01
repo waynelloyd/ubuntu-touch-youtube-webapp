@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<application>
+  <description>YouTube Webapp</description>
+   <services>
+    <service id="youtube.waynelloyd_youtube">
+      <description>Youtube Webapp service</description>
+    </service>
+  </services>
+</application>
+

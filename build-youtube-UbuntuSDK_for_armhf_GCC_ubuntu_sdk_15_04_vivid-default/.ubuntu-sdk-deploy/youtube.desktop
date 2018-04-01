@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=YouTube
+Comment=Webapp for YouTube
+Type=Application
+Icon=youtube.png
+Exec=webapp-container --accountProvider=google --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://*.youtube.com/*,https?://accounts.google.*/*,https?://accounts.google.co.*/*,https?://www.google.*/accounts/* http://m.youtube.com/ %
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Single-Instance=true
+X-Ubuntu-Default-Department-ID=internet
+
+
+
