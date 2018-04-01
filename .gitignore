@@ -1,3 +1,4 @@
 .bzr/
 thumbs.db
 screenshot*
+.DS_Store
